@@ -10,3 +10,5 @@
    - Extension: Add the nice bits of Unix
  - A program to print the longer of two words
    - Extension: Make a web service/GUI
+ - Minesweeper!
+   - Extension: Make a solver for minesweeper
