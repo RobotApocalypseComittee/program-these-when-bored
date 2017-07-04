@@ -1,6 +1,12 @@
 # Ideas
  - noot
  - System to sort peoples into groups
-   - Based on preference and capacity of each group.
+   - Based on preference and capacity of each group
    - Extension: Take a data file
+   - Extension: Make a web service/GUI
+ - A program to encrypt files (or folders)
+   - Extension: Make a web service/GUI
+ - Code Windows in binary assembly
+   - Extension: Add the nice bits of Unix
+ - A program to print the longer of two words
    - Extension: Make a web service/GUI
