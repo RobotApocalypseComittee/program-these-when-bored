@@ -12,3 +12,7 @@
    - Extension: Make a web service/GUI
  - Minesweeper!
    - Extension: Make a solver for minesweeper
+ - Write a midi sampler
+   - Play registered sound files for each note in a midi file.
+   - Extension: Add the possibility to raise/lower a single sound file in pitch
+   - Extension: Write to a mp3/other sound file with the result.
